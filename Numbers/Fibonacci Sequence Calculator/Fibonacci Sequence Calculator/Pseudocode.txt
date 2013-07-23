@@ -1,0 +1,20 @@
+ask amount of digits
+calculate to that many digits
+finish
+
+two previous terms added together.
+
+1 1 2 3 5 8 13 21 34 55 89 
+
+____
+
+int getint()
+
+vector<int> fibonaci()
+
+x = 0
+y = 1
+
+out = x + (y - x)
+out= 1, x = 1
+out = 

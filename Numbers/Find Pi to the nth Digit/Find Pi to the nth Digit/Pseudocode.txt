@@ -1,0 +1,4 @@
+ask user to how many places
+perform function
+	return the value
+output value
